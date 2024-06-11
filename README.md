@@ -10,3 +10,5 @@ We have used Linear Stats Model for Price prediction and Have also checked the A
 First we will start with Basic Exploratory Data Analysis, then cleaning the data, scaling it, and then proceeding with model building.
 
 Then, model prediction and checking the accuracy. Finally, proceeding with the Linear Assumptions Check. 
+
+..
